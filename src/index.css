@@ -24,6 +24,7 @@ code {
 }
 
 img {
+  max-width: 100px;
 	border-right: 60px solid black;
 	border-left: 60px solid black;
 }
@@ -31,4 +32,8 @@ img {
 .all {
 	margin: 0 auto;
 	width: 30%;
+}
+
+ul {
+  list-style: none;
 }
